@@ -10,7 +10,7 @@
 </div>
 
 ### <samp>Self-Taught Full-Stack Web Dev</samp>
-<p height="50"><samp>They say it ain't easy being cheesy.  <br/>They also say it's not that easy being green. <br/> <br/>Well, same goes for self-taught web development. <br/>Nevertheless, we code on. <br/>This is a small profile page created by me, <br/>being typed out by me right now.</samp></p>
+<p height="50"><samp>They say it ain't easy being cheesy.  <br/>They also say it's not that easy being green. <br/> <br/>Well, same goes for self-taught web development. <br/>Nevertheless, we code on. <br/>This is a small profile page created by me, <br/>currently being typed out by me.</samp></p>
 
 <br/>
 
