@@ -3,40 +3,41 @@
   <p><samp>Your friendly neighborhood web developer.</samp></p>
 <img src="https://i.giphy.com/media/WR0QnqocVaLXuA3Rnr/giphy.webp">
 
-<p align="center">
-  <img width="400" align='left' src="https://data.whicdn.com/images/290733198/original.gif" style="filter:grayscale(100%);">
-</p>
-
 </div>
 
+  <img width="400" align='left' src="https://data.whicdn.com/images/290733198/original.gif" style="filter:grayscale(100%);">
+  
 ### <samp>Self-Taught Full-Stack Web Dev</samp>
-<p height="50"><samp>They say it ain't easy being cheesy.  <br/>They also say it's not that easy being green. <br/> <br/>Well, same goes for self-taught web development. <br/>Nevertheless, we code on. <br/>This is a small profile page created by me, <br/>currently being typed out by me.</samp></p>
 
+<p height="50"><samp>They say it ain't easy being cheesy.  <br/>They also say it's not that easy being green. <br/> <br/>Well, same goes for self-taught web development. <br/>Nevertheless, we code on. <br/>This is a small profile page created by me, <br/>currently being typed out by me.</samp></p>
 <br/>
 
 ```javascript
 const chris = {
-    code: [ "HTML", "CSS", "Javascript", "Python", "Ruby"],
-    askMeAbout: ["web dev", "flexbox", "graphic design", "comedy"],
-    technologies: {
-        backEnd: {
-            js: ["node js", "express"],
-        },
-        frontEnd: {
-            js: ["React JS", "Vue JS"],
-            css: ["materialize", "bulma", "bootstrap"]
-        },
-        databases: ["mongoDB", "MySql"],
-        misc: ["Firebase", "Socket.IO", "Processing", "Netlify"]
-    },
-    architecture: ["Serverless Architecture", "Full stack web applications", "Single page applications"],
-    currentFocus: "React Dev",
-    quote: "Enough quotes."
+ code: ["HTML", "CSS", "Javascript", "Python", "Ruby"],
+ askMeAbout: ["web dev", "flexbox", "graphic design", "comedy"],
+ technologies: {
+  backEnd: {
+   js: ["node js", "express"],
+  },
+  frontEnd: {
+   js: ["React JS", "Vue JS"],
+   css: ["materialize", "bulma", "bootstrap"],
+  },
+  databases: ["mongoDB", "MySql"],
+  misc: ["Firebase", "Socket.IO", "Processing", "Netlify"],
+ },
+ architecture: [
+  "Serverless Architecture",
+  "Full stack web applications",
+  "Single page applications",
+ ],
+ currentFocus: "React Dev",
+ quote: "Enough quotes.",
 };
 ```
-<br />
-
-
+<br/>
+<div align="center">
 <table>
     <tr>
         <td>Tech</td>
@@ -81,11 +82,8 @@ const chris = {
         </td>
     </tr>
 </table>
+<br/>
 
-
-
-
-
-
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&lines=Thank+you%2C+and+have+a+nice+day.)](https://git.io/typing-svg)
+  
+</div>
