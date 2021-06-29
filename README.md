@@ -6,11 +6,15 @@
 </div>
 
   <img width="400" align='left' src="https://data.whicdn.com/images/290733198/original.gif" style="filter:grayscale(100%);">
+
+  <div align="right">
   
 ### <samp>Self-Taught Full-Stack Web Dev</samp>
 
-<p height="50"><samp>They say it ain't easy being cheesy.  <br/>They also say it's not that easy being green. <br/> <br/>Well, same goes for self-taught web development. <br/>Nevertheless, we code on. <br/>This is a small profile page created by me, <br/>currently being typed out by me.</samp></p>
+<p height="50"><samp>They say it ain't easy being cheesy.  <br/>They also say it's not that easy being green. <br/> <br/>Well, same goes for self-taught web development. <br/>Nevertheless, we code on! <br/>This is a small profile page created by me, <br/>currently being typed out by me.</samp></p>
 <br/>
+
+</div>
 
 ```javascript
 const chris = {
@@ -36,8 +40,30 @@ const chris = {
  quote: "Enough quotes.",
 };
 ```
-<br/>
+
 <div align="center">
+<table width="600px">
+    <tr>
+      <h3><samp>🔥 Github Organizations 🔥</samp></h3>
+    </tr>
+    <tr>
+        <td align="center">
+            <h3><samp>🤖 Practice</samp></h3>
+      <a href="https://github.com/cbonilladev-practice" target="_blank"> <img src="https://raw.githubusercontent.com/icons8/flat-color-icons/8eccbbbd8b2af1d2c9593e7cfba5ecb0d68ee378/svg/calculator.svg" alt="android" width="100" height="100"/> </a> 
+        </td>
+        <td align="center">
+            <h3><samp>⛏ One Page</samp></h3>
+      <a href="https://github.com/cbonilladev-onepage" target="_blank"> <img src="https://raw.githubusercontent.com/icons8/flat-color-icons/8eccbbbd8b2af1d2c9593e7cfba5ecb0d68ee378/svg/cursor.svg" alt="android" width="100" height="100"/> </a> 
+        </td>
+        <td align="center">
+            <h3><samp>⚡ Full Stack</samp></h3>
+      <a href="https://github.com/cbonilladev-fullstack" target="_blank"> <img src="https://raw.githubusercontent.com/icons8/flat-color-icons/8eccbbbd8b2af1d2c9593e7cfba5ecb0d68ee378/svg/circuit.svg" alt="android" width="100" height="100"/> </a> 
+        </td>
+    </tr>
+</table>
+  
+  <br/>
+  
 <table>
     <tr>
         <td>Tech</td>
@@ -82,8 +108,13 @@ const chris = {
         </td>
     </tr>
 </table>
+  
+<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Cabonilla&theme=dark)](https://git.io/streak-stats)
+
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&lines=Thank+you%2C+and+have+a+nice+day.)](https://git.io/typing-svg)
-  
+
 </div>
