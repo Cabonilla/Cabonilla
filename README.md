@@ -42,7 +42,7 @@ const chris = {
 ```
 
 <div align="center">
-<table width="800px">
+<table width="800px" >
     <tr>
       <h3><samp>🔥 Github Organizations 🔥</samp></h3>
     </tr>
@@ -60,9 +60,16 @@ const chris = {
       <a href="https://github.com/cbonilladev-fullstack" target="_blank"> <img src="https://raw.githubusercontent.com/icons8/flat-color-icons/8eccbbbd8b2af1d2c9593e7cfba5ecb0d68ee378/svg/circuit.svg" alt="android" width="100" height="100"/> </a> 
         </td>
     </tr>
+  <tr>
+    <td colspan="3">
+      <br />
+      
+![Top Langs](https://github-readme-stats-5wvjxcbzk-rickstaa.vercel.app/api/top-langs/?username=Cabonilla&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&layout=compact&card_width=250&langs_count=8&hide_border=1&line_height=23&theme=tokyonight&text_color=FFFFFF&title_color=FFFFFF&bg_color=0D1117)
+![Rick's github stats](https://github-readme-stats-5wvjxcbzk-rickstaa.vercel.app/api?username=Cabonilla&show_icons=true&count_private=true&role=OWNER,COLLABORATOR&line_height=24&hide_rank=true&hide_border=1&theme=tokyonight&text_color=FFFFFF&title_color=FFFFFF&bg_color=0D1117)
+    </td>
+  </tr>
 </table>
-  
-  <br/>
+  <br />
   
 <table>
     <tr>
