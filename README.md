@@ -49,7 +49,7 @@ const chris = {
     <tr>
         <td align="center">
             <h3><samp>⛏ Practice</samp></h3>
-      <a href="https://github.com/cbonilladev-practice" target="_blank"> <img src="https://raw.githubusercontent.com/icons8/flat-color-icons/8eccbbbd8b2af1d2c9593e7cfba5ecb0d68ee378/svg/cursor.svg" alt="android" width="100" height="100"/> </a> 
+      <a href="https://github.com/cbonilladev-practice" target="_blank"> <img src="https://raw.githubusercontent.com/icons8/flat-color-icons/8eccbbbd8b2af1d2c9593e7cfba5ecb0d68ee378/svg/command_line.svg" alt="android" width="100" height="100"/> </a> 
         </td>
         <td align="center">
             <h3><samp>⚡ One Page</samp></h3>
