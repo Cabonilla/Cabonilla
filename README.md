@@ -49,19 +49,19 @@ const chris = {
     <tr>
         <td align="center">
             <h3><samp>⛏ Practice</samp></h3>
-      <a href="https://github.com/cbonilladev-practice" target="_blank"> <img src="https://raw.githubusercontent.com/icons8/flat-color-icons/8eccbbbd8b2af1d2c9593e7cfba5ecb0d68ee378/svg/command_line.svg" alt="android" width="110" height="110"/> </a> 
+      <a href="https://github.com/cbonilladev-practice" target="_blank"> <img src="https://raw.githubusercontent.com/icons8/flat-color-icons/8eccbbbd8b2af1d2c9593e7cfba5ecb0d68ee378/svg/command_line.svg" alt="android" width="100" height="100"/> </a> 
         </td>
         <td align="center">
             <h3><samp>⚡ One Page</samp></h3>
-      <a href="https://github.com/cbonilladev-onepage" target="_blank"> <img src="https://raw.githubusercontent.com/icons8/flat-color-icons/8eccbbbd8b2af1d2c9593e7cfba5ecb0d68ee378/svg/calculator.svg" alt="android" width="110" height="110"/> </a> 
+      <a href="https://github.com/cbonilladev-onepage" target="_blank"> <img src="https://raw.githubusercontent.com/icons8/flat-color-icons/8eccbbbd8b2af1d2c9593e7cfba5ecb0d68ee378/svg/calculator.svg" alt="android" width="100" height="100"/> </a> 
         </td>
         <td align="center">
             <h3><samp>🤖 Full Stack</samp></h3>
-      <a href="https://github.com/cbonilladev-fullstack" target="_blank"> <img src="https://raw.githubusercontent.com/icons8/flat-color-icons/8eccbbbd8b2af1d2c9593e7cfba5ecb0d68ee378/svg/circuit.svg" alt="android" width="110" height="110"/> </a> 
+      <a href="https://github.com/cbonilladev-fullstack" target="_blank"> <img src="https://raw.githubusercontent.com/icons8/flat-color-icons/8eccbbbd8b2af1d2c9593e7cfba5ecb0d68ee378/svg/circuit.svg" alt="android" width="100" height="100"/> </a> 
         </td>
     </tr>
   <tr>
-    <td colspan="3">
+    <td colspan="3" align="center">
       <br />
       
 ![Top Langs](https://github-readme-stats-5wvjxcbzk-rickstaa.vercel.app/api/top-langs/?username=Cabonilla&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&layout=compact&card_width=250&langs_count=8&hide_border=1&line_height=23&theme=tokyonight&text_color=FFFFFF&title_color=FFFFFF&bg_color=0D1117)
