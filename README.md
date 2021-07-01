@@ -42,7 +42,7 @@ const chris = {
 ```
 
 <div align="center">
-<table width="800px" >
+<table>
     <tr>
       <h3><samp>🔥 Github Organizations 🔥</samp></h3>
     </tr>
