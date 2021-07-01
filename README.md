@@ -44,7 +44,9 @@ const chris = {
 <div align="center">
 <table>
     <tr>
-      <h3><samp>🔥 Github Organizations 🔥</samp></h3>
+      <td colspan="3">
+        <h3 align="center"><samp>🔥 Github Organizations 🔥</samp></h3>
+      </td>
     </tr>
     <tr>
         <td align="center">
@@ -78,6 +80,11 @@ const chris = {
 </table>
   
 <table>
+  <tr>
+    <td colspan="3">
+    <h3 align="center"><samp>⚔️ Currently Conquering ⚔️</samp></h3>
+    </td>
+  </tr>
     <tr>
         <td>Tech</td>
         <td>Language(s)</td>
