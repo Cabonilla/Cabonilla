@@ -132,8 +132,6 @@ const chris = {
 
   <div align='center'>
 
-<!--START_SECTION:activity-->
-
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&lines=Thank+you%2C+and+have+a+nice+day.)](https://git.io/typing-svg)
