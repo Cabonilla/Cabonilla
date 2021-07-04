@@ -40,45 +40,10 @@ const chris = {
  quote: "Enough quotes.",
 };
 ```
-
+<br/>
 <div align="center">
-<table>
-    <tr>
-      <td colspan="3">
-        <h3 align="center"><samp>🔥 Github Organizations 🔥</samp></h3>
-      </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <h3><samp>⛏ Practice</samp></h3>
-      <a href="https://github.com/cbonilladev-practice" target="_blank"> <img src="https://raw.githubusercontent.com/icons8/flat-color-icons/8eccbbbd8b2af1d2c9593e7cfba5ecb0d68ee378/svg/command_line.svg" alt="android" width="100" height="100"/> </a> 
-        </td>
-        <td align="center">
-            <h3><samp>⚡ One Page</samp></h3>
-      <a href="https://github.com/cbonilladev-onepage" target="_blank"> <img src="https://raw.githubusercontent.com/icons8/flat-color-icons/8eccbbbd8b2af1d2c9593e7cfba5ecb0d68ee378/svg/calculator.svg" alt="android" width="100" height="100"/> </a> 
-        </td>
-        <td align="center">
-            <h3><samp>🤖 Full Stack</samp></h3>
-      <a href="https://github.com/cbonilladev-fullstack" target="_blank"> <img src="https://raw.githubusercontent.com/icons8/flat-color-icons/8eccbbbd8b2af1d2c9593e7cfba5ecb0d68ee378/svg/circuit.svg" alt="android" width="100" height="100"/> </a> 
-        </td>
-    </tr>
-  <tr style="border:none;">
-    <td colspan="3" align="center" style="border:none;">
-      <br />
-      
-![Top Langs](https://github-readme-stats-5wvjxcbzk-rickstaa.vercel.app/api/top-langs/?username=Cabonilla&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&layout=compact&card_width=250&langs_count=8&hide_border=1&line_height=23&theme=tokyonight&text_color=FFFFFF&title_color=FFFFFF&bg_color=0D1117)
-![Rick's github stats](https://github-readme-stats-5wvjxcbzk-rickstaa.vercel.app/api?username=Cabonilla&show_icons=true&count_private=true&role=OWNER,COLLABORATOR&line_height=24&hide_rank=true&hide_border=1&theme=tokyonight&text_color=FFFFFF&title_color=FFFFFF&bg_color=0D1117)
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center">
-      
-      
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cabonilla&theme=dark&hide_border=true&background=DD272700&stroke=DD272700)](https://git.io/streak-stats)    
-    </td>
-  </tr>
-</table>
-  
+
+
 <table>
   <tr>
     <td colspan="3">
@@ -128,11 +93,45 @@ const chris = {
         </td>
     </tr>
 </table>
+
+<table>
+    <tr>
+      <td colspan="3">
+        <h3 align="center"><samp>🔥 Github Organizations 🔥</samp></h3>
+      </td>
+    </tr>
+    <tr>
+        <td align="center">
+            <h3><samp>⛏ Practice</samp></h3>
+      <a href="https://github.com/cbonilladev-practice" target="_blank"> <img src="https://raw.githubusercontent.com/icons8/flat-color-icons/8eccbbbd8b2af1d2c9593e7cfba5ecb0d68ee378/svg/command_line.svg" alt="android" width="100" height="100"/> </a> 
+        </td>
+        <td align="center">
+            <h3><samp>⚡ One Page</samp></h3>
+      <a href="https://github.com/cbonilladev-onepage" target="_blank"> <img src="https://raw.githubusercontent.com/icons8/flat-color-icons/8eccbbbd8b2af1d2c9593e7cfba5ecb0d68ee378/svg/calculator.svg" alt="android" width="100" height="100"/> </a> 
+        </td>
+        <td align="center">
+            <h3><samp>🤖 Full Stack</samp></h3>
+      <a href="https://github.com/cbonilladev-fullstack" target="_blank"> <img src="https://raw.githubusercontent.com/icons8/flat-color-icons/8eccbbbd8b2af1d2c9593e7cfba5ecb0d68ee378/svg/circuit.svg" alt="android" width="100" height="100"/> </a> 
+        </td>
+    </tr>
+  <tr style="border:none;">
+    <td colspan="3" align="center" style="border:none;">
+      <br />
+      
+![Top Langs](https://github-readme-stats-5wvjxcbzk-rickstaa.vercel.app/api/top-langs/?username=Cabonilla&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&layout=compact&card_width=250&langs_count=8&hide_border=1&line_height=23&theme=tokyonight&text_color=FFFFFF&title_color=FFFFFF&bg_color=0D1117)
+![Rick's github stats](https://github-readme-stats-5wvjxcbzk-rickstaa.vercel.app/api?username=Cabonilla&show_icons=true&count_private=true&role=OWNER,COLLABORATOR&line_height=24&hide_rank=true&hide_border=1&theme=tokyonight&text_color=FFFFFF&title_color=FFFFFF&bg_color=0D1117)
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center">
+      
+      
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cabonilla&theme=dark&hide_border=true&background=DD272700&stroke=DD272700)](https://git.io/streak-stats)    
+    </td>
+  </tr>
+</table>
+  
   <br/>
-
-  <div align='center'>
-
-</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&lines=Thank+you%2C+and+have+a+nice+day.)](https://git.io/typing-svg)
 
