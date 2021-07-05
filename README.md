@@ -43,7 +43,6 @@ const chris = {
 <br/>
 <div align="center">
 
-
 <table>
   <tr>
     <td colspan="3">
