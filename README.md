@@ -137,11 +137,11 @@ const chris = {
     if you get the job, you can <a href="https://www.buymeacoffee.com/cbonilladev">buy me a course</a>!
   </code><br/>
   <code>
-    for further information, 
+    for more information, 
   </code>
   <br/>
       <code>
-hmu on <a href="https://www.linkedin.com/in/bonillachristian/">linkedin</a>, <a href="https://www.instagram.com/il.cor/">instagram</a>, or my <a href="https://cbonilla.dev/">site</a>.
+hmu on <a href="https://www.linkedin.com/in/bonillachristian/">linkedin</a>, <a href="https://www.instagram.com/il.cor/">instagram</a>, <a href="mailto: christian.bonilla01@gmail.com">email</a> or my <a href="https://cbonilla.dev/">site</a>.
   </code>
   <br/>
   <br/>
