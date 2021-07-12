@@ -146,7 +146,7 @@ hmu on <a href="https://www.linkedin.com/in/bonillachristian/">linkedin</a>, <a 
   <br/>
   <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&lines=Thank+you%2C+and+have+a+nice+day.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DCDCDC&lines=Thank+you%2C+and+have+a+nice+day.+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 </div>
 
