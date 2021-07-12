@@ -111,7 +111,10 @@ const chris = {
         <td align="center">
             <h3><samp>🤖 Full Stack</samp></h3>
       <a href="https://github.com/cbonilladev-fullstack" target="_blank"> <img src="https://raw.githubusercontent.com/icons8/flat-color-icons/8eccbbbd8b2af1d2c9593e7cfba5ecb0d68ee378/svg/circuit.svg" alt="android" width="100" height="100"/> </a> 
-        </td>
+      />
+feel free to ste<br/>
+feel free to steal from this portfolio.
+if you get the job, but
     </tr>
   <tr style="border:none;">
     <td colspan="3" align="center" style="border:none;">
@@ -124,14 +127,30 @@ const chris = {
   <tr>
     <td colspan="3" align="center">
       
-      
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cabonilla&theme=dark&hide_border=true&background=DD272700&stroke=DD272700)](https://git.io/streak-stats)    
     </td>
   </tr>
 </table>
-  
+
+<br/>
+
+<code>
+  feel free to steal from this portfolio.
+  </code><br/>
+  <code>
+    if you get the job, you can <a href="https://www.buymeacoffee.com/cbonilladev">buy me a course</a>!
+  </code><br/>
+  <code>
+    for further information, 
+  </code>
+  <br/>
+      <code>
+hmu on <a href="https://www.linkedin.com/in/bonillachristian/">linkedin</a>, <a href="https://www.instagram.com/il.cor/">instagram, or my <a href="https://cbonilla.dev/">site</a>.
+  </code>
+  <br/>
   <br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7F7F7&lines=Thank+you%2C+and+have+a+nice+day.)](https://git.io/typing-svg)
 
 </div>
+
