@@ -145,7 +145,7 @@ if you get the job, but
   </code>
   <br/>
       <code>
-hmu on <a href="https://www.linkedin.com/in/bonillachristian/">linkedin</a>, <a href="https://www.instagram.com/il.cor/">instagram, or my <a href="https://cbonilla.dev/">site</a>.
+hmu on <a href="https://www.linkedin.com/in/bonillachristian/">linkedin</a>, <a href="https://www.instagram.com/il.cor/">instagram</a>, or my <a href="https://cbonilla.dev/">site</a>.
   </code>
   <br/>
   <br/>
