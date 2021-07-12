@@ -123,7 +123,7 @@ const chris = {
   <tr>
     <td colspan="3" align="center">
       
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cabonilla&theme=dark&hide_border=true&background=DD272700&stroke=DD272700)](https://git.io/streak-stats)    
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cabonilla&hide_border=true&background=DD272700&stroke=DD272700)](https://git.io/streak-stats)    
     </td>
   </tr>
 </table>
