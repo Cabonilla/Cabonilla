@@ -111,10 +111,6 @@ const chris = {
         <td align="center">
             <h3><samp>🤖 Full Stack</samp></h3>
       <a href="https://github.com/cbonilladev-fullstack" target="_blank"> <img src="https://raw.githubusercontent.com/icons8/flat-color-icons/8eccbbbd8b2af1d2c9593e7cfba5ecb0d68ee378/svg/circuit.svg" alt="android" width="100" height="100"/> </a> 
-      />
-feel free to ste<br/>
-feel free to steal from this portfolio.
-if you get the job, but
     </tr>
   <tr style="border:none;">
     <td colspan="3" align="center" style="border:none;">
