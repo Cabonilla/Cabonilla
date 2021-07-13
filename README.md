@@ -134,7 +134,7 @@ const chris = {
   feel free to steal from this portfolio.
   </code><br/>
   <code>
-    if you get the job, you can <a href="https://www.buymeacoffee.com/cbonilladev">buy me a course</a>!
+    if you get the job, you can <a href="https://www.buymeacoffee.com/cbonilladev" target="_blank">buy me a course</a>!
   </code><br/>
   <code>
     for more information, 
