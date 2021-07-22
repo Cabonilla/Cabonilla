@@ -93,6 +93,8 @@ const chris = {
         </td>
     </tr>
 </table>
+  
+  <br/>
 
 <table>
     <tr>
