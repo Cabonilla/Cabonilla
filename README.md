@@ -142,7 +142,7 @@ const chris = {
   </code>
   <br/>
       <code>
-hmu on <a href="https://www.linkedin.com/in/bonillachristian/" target="_blank">linkedin</a>, <a href="https://www.instagram.com/il.cor/" target="_blank">instagram</a>, via <a href="mailto: christian.bonilla01@gmail.com" target="_blank">email</a> or on my <a href="https://cbonilla.dev/">site</a>.
+hmu on <a href="https://www.linkedin.com/in/bonillachristian/" target="_blank">linkedin</a>, <a href="https://www.instagram.com/il.cor/" target="_blank">instagram</a>, my <a href="https://cbonilla.dev/">site</a> or via <a href="mailto: christian.bonilla01@gmail.com" target="_blank">email</a>.
   </code>
   <br/>
   
