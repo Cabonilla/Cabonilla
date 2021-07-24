@@ -152,7 +152,6 @@ hmu on <a href="https://www.linkedin.com/in/bonillachristian/" target="_blank">l
   <br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DCDCDC&lines=Thank+you%2C+and+have+a+nice+day.+%F0%9F%91%8B)](https://git.io/typing-svg)
-
   
 </div>
 
