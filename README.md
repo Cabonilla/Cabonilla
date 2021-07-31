@@ -2,7 +2,6 @@
   <h3><samp>Hey, I'm Chris!</samp></h3>
   <p><samp>Your friendly neighborhood web developer.</samp></p>
 <img src="https://i.giphy.com/media/WR0QnqocVaLXuA3Rnr/giphy.webp">
-
 </div>
 
   <img width="400" align='left' src="https://data.whicdn.com/images/290733198/original.gif" style="filter:grayscale(100%);">
