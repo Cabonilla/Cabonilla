@@ -81,6 +81,7 @@ const chris = {
         <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />  
         <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
         <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code" />
+        <img alt="Figma" src="https://img.shields.io/badge/-Figma-9D56F7?style=flat-square&logo=figma" />
         </td>
     </tr>
         <tr>
