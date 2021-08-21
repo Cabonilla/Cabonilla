@@ -26,7 +26,7 @@ const chris = {
   },
   frontEnd: {
    js: ["React JS", "Vue JS", "Framer Motion"],
-   css: ["materialize", "bulma", "bootstrap"],
+   css: ["materialize", "bulma", "bootstrap", "figma"],
   },
   databases: ["mongoDB", "MySql"],
   misc: ["Firebase", "Socket.IO", "Processing", "Netlify"],
