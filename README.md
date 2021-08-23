@@ -24,7 +24,7 @@ const chris = {
    js: ["node js", "express"],
   },
   frontEnd: {
-   js: ["React JS", "Vue JS", "Framer Motion"],
+   js: ["React JS", "Redux", "Vue JS", "Framer Motion"],
    css: ["materialize", "bulma", "bootstrap", "figma"],
   },
   databases: ["mongoDB", "MySql"],
