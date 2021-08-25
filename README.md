@@ -5,7 +5,6 @@
 </div>
 
   <img width="400" align='left' src="https://data.whicdn.com/images/290733198/original.gif" style="filter:grayscale(100%);">
-
   <div align="right">
   
 ### <samp>Self-Taught Full-Stack Web Dev</samp>
