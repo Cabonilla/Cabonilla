@@ -146,7 +146,6 @@ const chris = {
 hmu on <a href="https://www.linkedin.com/in/bonillachristian/" target="_blank">linkedin</a>, <a href="https://www.instagram.com/il.cor/" target="_blank">instagram</a>, my <a href="https://cbonilla.dev/">site</a> or via <a href="mailto: christian.bonilla01@gmail.com" target="_blank">email</a>.
   </code>
   <br/>
-  
   <br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DCDCDC&lines=Thank+you%2C+and+have+a+nice+day.+%F0%9F%91%8B)](https://git.io/typing-svg)
