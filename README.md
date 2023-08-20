@@ -2,16 +2,18 @@
   <h3><samp>Hey, I'm Chris!</samp></h3>
   <p><samp>Your friendly neighborhood web developer.</samp></p>
 <img src="https://i.giphy.com/media/WR0QnqocVaLXuA3Rnr/giphy.webp">
+
 </div>
 
-  <img width="400" align='left' src="https://data.whicdn.com/images/290733198/original.gif" style="filter:grayscale(100%);">
+  <img width="175" height="auto" align='left' object-fit="cover" overflow="hidden" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWl6OGNuOWFpNzFjbXdkbTRxZGM3cjJtYmgxMGZzbXNsejkwMmN3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1yTcsA056xvnthdju0/giphy.gif">
+
   <div align="right">
   
 ### <samp>Self-Taught Full-Stack Web Dev</samp>
 
 <p height="50"><samp>They say it ain't easy being cheesy.  <br/>They also say it's not that easy being green. <br/> <br/>Well, same goes for self-taught web development. <br/>Nevertheless, we code on! <br/>This is a small profile page created by me, <br/>currently being typed out by me.</samp></p>
 <br/>
-  
+
 </div>
 
 ```javascript
@@ -23,8 +25,8 @@ const chris = {
    js: ["node js", "express"],
   },
   frontEnd: {
-   js: ["React JS", "Redux", "Vue JS", "Framer Motion"],
-   css: ["materialize", "bulma", "bootstrap", "figma"],
+   js: ["React JS", "Vue JS"],
+   css: ["materialize", "bulma", "bootstrap"],
   },
   databases: ["mongoDB", "MySql"],
   misc: ["Firebase", "Socket.IO", "Processing", "Netlify"],
@@ -38,9 +40,7 @@ const chris = {
  quote: "Enough quotes.",
 };
 ```
-
 <br/>
-
 <div align="center">
 
 <table>
@@ -80,7 +80,6 @@ const chris = {
         <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />  
         <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
         <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code" />
-        <img alt="Figma" src="https://img.shields.io/badge/-Figma-9D56F7?style=flat-square&logo=figma" />
         </td>
     </tr>
         <tr>
@@ -93,8 +92,6 @@ const chris = {
         </td>
     </tr>
 </table>
-  
-  <br/>
 
 <table>
     <tr>
@@ -119,8 +116,25 @@ const chris = {
     <td colspan="3" align="center" style="border:none;">
       <br />
       
-![Rick Staa's Language stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=Cabonilla&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&layout=compact&card_width=250&langs_count=8&hide_border=1&line_height=23&theme=tokyonight&text_color=DCDCDC&title_color=DCDCDC&bg_color=0D1117)
-![Rick Staa's Github stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=Cabonilla&show_icons=true&count_private=true&role=OWNER,COLLABORATOR&line_height=24&hide_rank=true&hide_border=1&theme=tokyonight&text_color=DCDCDC&title_color=DCDCDC&bg_color=0D1117)
+<!-- Light Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cabonilla&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Christian Bonilla's Language Stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cabonilla&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Christian Bonilla's Github Stats" />
+</a>
+</div>
+
+<!-- Dark Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cabonilla&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Christian Bonilla's Language Stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cabonilla&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Christian Bonilla's Github Stats" />
+</a>
+</div>
     </td>
   </tr>
   <tr>
@@ -133,22 +147,14 @@ const chris = {
 
 <br/>
 
-<code>
-  feel free to steal from this portfolio.
-  </code><br/>
-  <code>
-    if you get the job, you can <a href="https://www.buymeacoffee.com/cbonilladev" target="_blank">buy me a course</a>!
-  </code><br/>
-  <code>
+<code>feel free to steal from this portfolio.
+  if you get the job, you can <a href="https://www.buymeacoffee.com/cbonilladev" target="_blank">buy me a course</a>!
     for more information, 
+hmu on <a href="https://www.linkedin.com/in/bonillachristian/" target="_blank">linkedin</a>, <a href="https://www.instagram.com/il.cor/" target="_blank">instagram</a>, <a href="mailto: christian.bonilla01@gmail.com" target="_blank">email</a> or my <a href="https://cbonilla.dev/">site</a>.
   </code>
-  <br/>
-      <code>
-hmu on <a href="https://www.linkedin.com/in/bonillachristian/" target="_blank">linkedin</a>, <a href="https://www.instagram.com/il.cor/" target="_blank">instagram</a>, my <a href="https://cbonilla.dev/">site</a> or via <a href="mailto: christian.bonilla01@gmail.com" target="_blank">email</a>.
-  </code>
-  <br/>
   <br/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DCDCDC&lines=Thank+you%2C+and+have+a+nice+day.+%F0%9F%91%8B)](https://git.io/typing-svg)
-  
+
 </div>
+
